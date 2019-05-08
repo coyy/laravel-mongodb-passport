@@ -10,7 +10,8 @@
         "laravel-passport",
         "mongodb",
         "passport",
-        "designmynight"
+        "designmynight",
+        "coyy"
     ],
     "require": {
         "illuminate/support": "^5.5",
